@@ -30,7 +30,7 @@ This repository documents my setup, decisions, and what I’ve learned.
 | Service | Purpose |
 |------|--------|
 | Pi-hole | Network-wide ad blocking |
-| Home assistant | House wide smart tool |
+| Home Assistant | House wide smart tool |
 | Jellyfin | Self hosted media server |
 
 ---
