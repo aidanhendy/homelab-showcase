@@ -9,7 +9,7 @@ This repository documents my setup, decisions, and what I’ve learned.
 
 ## Hardware Overview
 
-### Raspberry Pi (Primary Homelab)
+### Raspberry Pi 5 (Primary Homelab)
 - OS: Raspberry Pi OS / Debian-based
 - Role: Docker host, services, web hosting
 
