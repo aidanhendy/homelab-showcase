@@ -29,9 +29,9 @@ This repository documents my setup, decisions, and what I’ve learned.
 
 | Service | Purpose |
 |------|--------|
-| (example) Pi-hole | Network-wide ad blocking |
-| (example) Nginx | Web server / reverse proxy |
-| (example) Vaultwarden | Password manager |
+| Pi-hole | Network-wide ad blocking |
+| Home assistant | House wide smart tool |
+| Jellyfin | Self hosted media server |
 
 ---
 
