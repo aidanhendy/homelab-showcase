@@ -1,5 +1,3 @@
-# homelab-showcase
-
 # Homelab & Linux Showcase
 
 Hi, I'm Aidan. Over the past two months I've been learning Linux, self-hosting,
